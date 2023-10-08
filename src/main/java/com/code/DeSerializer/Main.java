@@ -1,4 +1,6 @@
 package com.code.DeSerializer;
+import com.code.Serialization.User;
+
 import java.io.*;
 
 public class Main {
